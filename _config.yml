@@ -47,7 +47,7 @@ url: http://martin-k-wallace.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/martin-k-wallace"
+baseurl: ""
 
 # In order to access data in repository, user must specify github username
 githubuser: martin-k-wallace
